@@ -3,10 +3,10 @@
 ![Premium Banner](bearlytics_banner.png)
 
 # 💫 Franco Alonzo Mendoza Salazar
-### 🛠️ Software Developer & Data Automation Strategist
+### 🏛️ Data & Systems Architect | AI Automation Expert
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Transformando+datos+en+soluciones;Expert+in+Python+%26+Automation;Looker+Specialist+%40+Fuvex+BCP;Building+the+future+of+reporting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect;Generative+AI+%26+Predictive+Analytics;Power+BI+%26+BigQuery+Specialist;MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,12 +17,13 @@
 
 </div>
 
-### 🔭 Trayectoria Actual
-Me apasiona cerrar la brecha entre los **datos complejos** y la **toma de decisiones estratégica**. En mi rol actual en **Fuvex (Banco de Crédito del Perú)**, diseño arquitecturas de automatización que transforman flujos de información en dashboards accionables de alto impacto.
+### 🔭 Expertise Profesional
+Soy un apasionado por la **Arquitectura de Sistemas y Datos**, especializado en crear puentes inteligentes entre la tecnología y los resultados de negocio. Mi enfoque combina el desarrollo de software sólido con análisis predictivo y soluciones de **IA Generativa**.
 
-- 💎 **Enfoque:** Escalabilidad, eficiencia y precisión de datos.
-- 🚀 **Proyectos:** Automatización de flujos de reporte en Looker y desarrollos personalizados en Python.
-- 📚 **Meta 2024:** Consolidar implementaciones de ML Ops y flujos avanzados de ETL.
+- 🤖 **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
+- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
+- 🏗️ **Arquitectura:** Diseño de estructuras de datos escalables y sistemas robustos en entornos corporativos (Fuvex BCP).
+- 💼 **Productividad:** Dominio experto de la suite de Microsoft Office para optimización operativa.
 
 ---
 
@@ -30,11 +31,12 @@ Me apasiona cerrar la brecha entre los **datos complejos** y la **toma de decisi
 
 <div align="center">
 
-| | Herramientas |
-| --- | :--- |
-| **Backend & Automation** | <img src="https://skillicons.dev/icons?i=python,flask,fastapi,js,nodejs" /> |
-| **Data & BI** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,pandas,gcp" /> |
-| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux" /> |
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions" /> + `Generative AI`, `MCP`, `Predictive Models` |
+| **Data Engineering & BI** | <img src="https://skillicons.dev/icons?i=gcp,postgres,mysql,mongodb,pandas" /> + `BigQuery`, `Power BI (DAX)`, `Looker` |
+| **Software & Architecture** | <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,docker" /> + `Systems Architecture` |
+| **Productivity & Suite** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> + `Microsoft Office Suite` |
 
 </div>
 
@@ -56,17 +58,13 @@ Me apasiona cerrar la brecha entre los **datos complejos** y la **toma de decisi
 
 ---
 
-### 🤝 Hablemos de Tecnología
-
+### 🤝 Conectemos
 <div align="center">
   <a href="https://www.linkedin.com/in/fmendoza-a365/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tu-correo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tu-web-site.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
