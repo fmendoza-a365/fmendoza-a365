@@ -2,7 +2,7 @@
 
 ![Premium Banner](bearlytics_banner.png)
 
-# ![User](https://img.shields.io/badge/-%20Franco%20Alonzo%20Mendoza%20Salazar-00D1FF?style=flat-square&logo=github&logoColor=white)
+# 🌐 Franco Alonzo Mendoza Salazar
 ### Arquitecto de Datos y Sistemas | Experto en IA y Automatización
 
 <p align="center">
