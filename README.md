@@ -6,7 +6,7 @@
 ### 🏛️ Data & Systems Architect | AI Automation Expert
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect+%40+Impulsa365;Generative+AI+%26+Predictive+Analytics;Solutions+for+BCP+%26+Banco+de+la+Naci%C3%B3n;MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect+%40+Impulsa365;Multisectoral+AI+%26+BI+Solutions;Banking+%26+Telco+Expert+(BCP,+Entel,+WOM);MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,12 +18,12 @@
 </div>
 
 ### 🔭 Expertise Profesional
-Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde desarrollo soluciones tecnológicas de alto impacto. Mi enfoque combina el desarrollo de software con análisis avanzado para optimizar operaciones críticas en el sector bancario.
+Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde diseño y escalo soluciones tecnológicas transversales. Mi enfoque permite optimizar operaciones complejas en industrias dinámicas como la **Banca** y las **Telecomunicaciones**.
 
-- 🏦 **Experiencia Bancaria:** Desarrollo y automatización de arquitecturas de datos para instituciones líderes como el **Banco de Crédito del Perú (BCP)** y el **Banco de la Nación**.
+- 🏢 **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos de alto impacto para líderes de industria como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
 - 🤖 **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
-- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
-- 🏗️ **Arquitectura:** Diseño de flujos de datos escalables y sistemas robustos orientados a resultados de negocio.
+- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico y toma de decisiones.
+- 🏗️ **Arquitectura de Sistemas:** Diseño de infraestructuras robustas y escalables orientadas a la eficiencia operativa global.
 
 ---
 
