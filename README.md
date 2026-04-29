@@ -20,10 +20,9 @@
 ### 🔭 Trayectoria Profesional
 Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde diseño y escalo soluciones tecnológicas transversales. Mi enfoque permite optimizar operaciones complejas en industrias dinámicas como la **Banca** y las **Telecomunicaciones**.
 
-- 🏢 **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos de alto impacto para líderes de industria como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
+- 🏢 **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos para líderes como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
 - 🤖 **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
-- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico y toma de decisiones.
-- 🏗️ **Arquitectura de Sistemas:** Diseño de infraestructuras robustas y escalables orientadas a la eficiencia operativa global.
+- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
 
 ---
 
@@ -31,12 +30,12 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
 
 <div align="center">
 
-| Categoría | Herramientas |
+| Categoría | Herramientas e Iconos |
 | :--- | :--- |
-| **Inteligencia Artificial** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions" /> <br /> `IA Generativa` • `Modelos Predictivos` • `Ecosistema MCP` |
-| **Ingeniería de Datos & BI** | <img src="https://skillicons.dev/icons?i=gcp,postgres,mysql,mongodb,pandas" /> <br /> `BigQuery` • `Power BI (DAX)` • `Looker` |
-| **Software & Arquitectura** | <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,docker" /> <br /> `Arquitectura de Sistemas` • `Desarrollo Backend` |
-| **Productividad & Suite** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br /> `Microsoft Office Suite` • `CI/CD` |
+| **Inteligencia Artificial** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions" /> <br /> ![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=flat-square&logo=openai&logoColor=white) ![Predictive](https://img.shields.io/badge/Predictive_AI-blue?style=flat-square&logo=google-cloud&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-FFD700?style=flat-square&logo=json&logoColor=black) |
+| **Ingeniería de Datos & BI** | <img src="https://skillicons.dev/icons?i=gcp,postgres,mysql,mongodb,pandas" /> <br /> ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=micro-strategy&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
+| **Software & Arquitectura** | <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,docker" /> <br /> ![Architecture](https://img.shields.io/badge/Architecture-FF5722?style=flat-square&logo=diagrams.net&logoColor=white) ![Backend](https://img.shields.io/badge/Backend_Dev-333?style=flat-square&logo=github&logoColor=white) |
+| **Productividad & Office** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br /> ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white) ![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=flat-square&logo=microsoft-office&logoColor=white) |
 
 </div>
 
@@ -64,7 +63,7 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fmendoza@a365.com.pe">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
