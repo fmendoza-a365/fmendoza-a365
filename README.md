@@ -3,10 +3,10 @@
 ![Premium Banner](bearlytics_banner.png)
 
 # 💫 Franco Alonzo Mendoza Salazar
-### 🏛️ Data & Systems Architect | AI Automation Expert
+### 🏛️ Arquitecto de Datos y Sistemas | Experto en IA y Automatización
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect+%40+Impulsa365;Multisectoral+AI+%26+BI+Solutions;Banking+%26+Telco+Expert+(BCP,+Entel,+WOM);MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Arquitecto+de+Datos+y+Sistemas+%40+Impulsa365;Soluciones+IA+Generativa+y+Predictiva;Experto+en+Banca+y+Telecomunicaciones;Desarrollador+de+Skills+IA+y+MCP;Infraestructuras+de+Datos+Escalables" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 </div>
 
-### 🔭 Expertise Profesional
+### 🔭 Trayectoria Profesional
 Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde diseño y escalo soluciones tecnológicas transversales. Mi enfoque permite optimizar operaciones complejas en industrias dinámicas como la **Banca** y las **Telecomunicaciones**.
 
 - 🏢 **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos de alto impacto para líderes de industria como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
@@ -33,10 +33,10 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
 
 | Categoría | Herramientas |
 | :--- | :--- |
-| **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions" /> + `Generative AI`, `MCP`, `Predictive Models` |
-| **Data Engineering & BI** | <img src="https://skillicons.dev/icons?i=gcp,postgres,mysql,mongodb,pandas" /> + `BigQuery`, `Power BI (DAX)`, `Looker` |
-| **Software & Architecture** | <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,docker" /> + `Systems Architecture` |
-| **Productivity & Suite** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> + `Microsoft Office Suite` |
+| **Inteligencia Artificial** | <img src="https://skillicons.dev/icons?i=py,fastapi,githubactions" /> <br /> `IA Generativa` • `Modelos Predictivos` • `Ecosistema MCP` |
+| **Ingeniería de Datos & BI** | <img src="https://skillicons.dev/icons?i=gcp,postgres,mysql,mongodb,pandas" /> <br /> `BigQuery` • `Power BI (DAX)` • `Looker` |
+| **Software & Arquitectura** | <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,docker" /> <br /> `Arquitectura de Sistemas` • `Desarrollo Backend` |
+| **Productividad & Suite** | <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <br /> `Microsoft Office Suite` • `CI/CD` |
 
 </div>
 
@@ -63,7 +63,7 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
   <a href="https://www.linkedin.com/in/fmendoza-a365/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:fmendoza@a365.com.pe">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
