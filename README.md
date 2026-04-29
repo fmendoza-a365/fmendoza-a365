@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Francisco Mendoza 👋
+# ¡Hola! Soy Franco Alonzo Mendoza Salazar 👋
 ### Software Developer | Data Automation Specialist | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transformando+datos+en+decisiones;Especialista+en+Automatizaci%C3%B3n;Python+Developer+%26+Looker+Expert)](https://git.io/typing-svg)
