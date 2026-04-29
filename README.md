@@ -2,8 +2,8 @@
 
 ![Premium Banner](bearlytics_banner.png)
 
-# 💫 Franco Alonzo Mendoza Salazar
-### 🏛️ Arquitecto de Datos y Sistemas | Experto en IA y Automatización
+# ![User](https://img.shields.io/badge/-%20Franco%20Alonzo%20Mendoza%20Salazar-00D1FF?style=flat-square&logo=github&logoColor=white)
+### Arquitecto de Datos y Sistemas | Experto en IA y Automatización
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Arquitecto+de+Datos+y+Sistemas+%40+Impulsa365;Soluciones+IA+Generativa+y+Predictiva;Experto+en+Banca+y+Telecomunicaciones;Desarrollador+de+Skills+IA+y+MCP;Infraestructuras+de+Datos+Escalables" alt="Typing SVG" />
@@ -17,16 +17,16 @@
 
 </div>
 
-### 🔭 Trayectoria Profesional
+### ![About](https://img.shields.io/badge/-Trayectoria%20Profesional-333?style=flat-square&logo=read-the-docs&logoColor=white)
 Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde diseño y escalo soluciones tecnológicas transversales. Mi enfoque permite optimizar operaciones complejas en industrias dinámicas como la **Banca** y las **Telecomunicaciones**.
 
-- 🏢 **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos para líderes como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
-- 🤖 **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
-- 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
+- **Soluciones Multisectoriales:** Desarrollo de arquitecturas de datos para líderes como **BCP**, **Entel**, **WOM** y el **Banco de la Nación**.
+- **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
+- **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
 
 ---
 
-### 🧰 Mi Arsenal Tecnológico
+### ![Tools](https://img.shields.io/badge/-Arsenal%20Tecnol%C3%B3gico-333?style=flat-square&logo=buildkite&logoColor=white)
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
 
 ---
 
-### 📊 Análisis de Actividad
+### ![Stats](https://img.shields.io/badge/-An%C3%A1lisis%20de%20Actividad-333?style=flat-square&logo=google-analytics&logoColor=white)
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
 
 ---
 
-### 🤝 Conectemos
+### ![Contact](https://img.shields.io/badge/-Conectemos-333?style=flat-square&logo=at-and-t&logoColor=white)
 <div align="center">
   <a href="https://www.linkedin.com/in/fmendoza-a365/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -70,5 +70,5 @@ Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**,
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fmendoza-a365&color=00D1FF&style=flat-square&label=PERFIL+VISITADO" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fmendoza-a365&color=00D1FF&style=flat-square&label=VISITAS" alt="Profile Views" />
 </div>
