@@ -1,6 +1,6 @@
 <div align="center">
 
-![Premium Banner](banner.png)
+![Premium Banner](bearlytics_banner.png)
 
 # 💫 Franco Alonzo Mendoza Salazar
 ### 🛠️ Software Developer & Data Automation Strategist
