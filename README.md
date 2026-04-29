@@ -6,7 +6,7 @@
 ### 🏛️ Data & Systems Architect | AI Automation Expert
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect;Generative+AI+%26+Predictive+Analytics;Power+BI+%26+BigQuery+Specialist;MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Architect+%40+Impulsa365;Generative+AI+%26+Predictive+Analytics;Solutions+for+BCP+%26+Banco+de+la+Naci%C3%B3n;MCP+%26+AI+Skills+Developer;Building+Scalable+Data+Infrastructures" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,12 +18,12 @@
 </div>
 
 ### 🔭 Expertise Profesional
-Soy un apasionado por la **Arquitectura de Sistemas y Datos**, especializado en crear puentes inteligentes entre la tecnología y los resultados de negocio. Mi enfoque combina el desarrollo de software sólido con análisis predictivo y soluciones de **IA Generativa**.
+Soy un apasionado por la **Arquitectura de Sistemas y Datos** en **Impulsa365**, donde desarrollo soluciones tecnológicas de alto impacto. Mi enfoque combina el desarrollo de software con análisis avanzado para optimizar operaciones críticas en el sector bancario.
 
+- 🏦 **Experiencia Bancaria:** Desarrollo y automatización de arquitecturas de datos para instituciones líderes como el **Banco de Crédito del Perú (BCP)** y el **Banco de la Nación**.
 - 🤖 **IA & MCP:** Especialista en integraciones de IA Generativa, creación de Skills y ecosistemas MCP.
 - 📊 **BI & Big Data:** Experto en BigQuery, Power BI (DAX) y Looker para reporting estratégico.
-- 🏗️ **Arquitectura:** Diseño de estructuras de datos escalables y sistemas robustos en entornos corporativos (Fuvex BCP).
-- 💼 **Productividad:** Dominio experto de la suite de Microsoft Office para optimización operativa.
+- 🏗️ **Arquitectura:** Diseño de flujos de datos escalables y sistemas robustos orientados a resultados de negocio.
 
 ---
 
